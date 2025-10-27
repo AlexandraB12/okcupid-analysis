@@ -86,7 +86,7 @@ jupyter notebook main.ipynb
 Make sure all libraries above are installed via `pip install`.
 
 ### Online (Binder)
-[Launch Notebook on Binder](https://mybinder.org/v2/gh/YOUR_GITHUB_USERNAME/REPO_NAME/HEAD?filepath=main.ipynb)
+[Launch Notebook on Binder](https://mybinder.org/v2/gh/AlexandraB12/okcupid-analysis/HEAD?urlpath=%2Fdoc%2Ftree%2Fmain.ipynb)
 
 ---
 
