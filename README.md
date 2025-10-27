@@ -32,7 +32,7 @@ It demonstrates **data cleaning, structuring, and visualization** using Python l
 
 ## 📂 Dataset
 - Approximately **60,000 user profiles**  
-- 👥 Demographics: age, gender, orientation, location  
+- 👥 Demographics: age, status, sex, orientation, body_type, diet, drinks, income...  
 - 💬 Text responses from open-ended questions  
 - 💡 Lifestyle and preference features  
 
@@ -172,6 +172,6 @@ df.hvplot.scatter(
 ---
 
 ## 🧾 Author
-**Alexandra [Your Last Name]**  
-Data Analyst | UX Specialist | Learning & Development Consultant  
-📫 [LinkedIn Profile or Portfolio link]
+**Alexandra Boudia**  
+Data Analyst | Data Science Fullstack | AI Engineering  
+📫 [[LinkedIn Profile]](https://www.linkedin.com/in/alexandra-boudia/)
